@@ -1,1 +1,1 @@
-worker: run.bat
+worker: lein run -m run.sh
